@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Food Delivery website**
 
-- 👨‍💻 All of my projects are available at [https://jahanvi215.github.io/Jahanvi-s_Portfolio/](https://jahanvi215.github.io/Jahanvi-s_Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://jahanvi215.github.io/Jahanvi-s-Portfolio/)
 
 - 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, MySQL Material UI, Ant Design, Bootstrap, Tailwind**
 
 - 📫 How to reach me **tharu.jahanvi215@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xMVHlvFmey1QQqspfkwyJnhGL8G2kSwK/view?usp=sharing](https://drive.google.com/file/d/1xMVHlvFmey1QQqspfkwyJnhGL8G2kSwK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xMVHlvFmey1QQqspfkwyJnhGL8G2kSwK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
